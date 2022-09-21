@@ -28,17 +28,17 @@
 <div>
 	<h5>
 		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Gmail.svg" />
-	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sasuke031026@gmail.com
+	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;talentdev610@gmail.com
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Telegram.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Blockchain_Admiror
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/talentdev610
 	</h5>
 	<h5>
 		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Skype.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.cdaf2d007af9b1fe
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.781dbec5993f7868
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Githbu.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/sasuke031026
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/talent-dev610
 	</h5>
 <div>
 
