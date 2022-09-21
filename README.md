@@ -43,7 +43,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2022 Sasuke Uchiha of Galaxy
+  &copy; 2022 TalentDev of Galaxy
 </div>
 
 ------
